@@ -1,0 +1,13 @@
+{
+  "name": "simple-hapi",
+  "version": "0.1.0",
+  "description": "Simple Hapi HTTP/HTTPS server",
+  "author": "Adam Coulon <adamgcoulon@gmail.com>",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "hapi": "^16.5.2"
+  },
+  "devDependencies": {}
+}
